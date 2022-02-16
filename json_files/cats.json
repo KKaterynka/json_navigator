@@ -1,0 +1,447 @@
+{
+    "data": [
+        {
+            "author_id": "1200085454256660481",
+            "conversation_id": "1493252985367023619",
+            "created_at": "2022-02-14T15:57:09.000Z",
+            "id": "1493252985367023619",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493247410931392513",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @shiny244: Oh my I found a subreddit full of blurry picture of cats https://t.co/RetZxlBHlX https://t.co/Q2fvnZD2oZ"
+        },
+        {
+            "author_id": "1963336368",
+            "conversation_id": "1493252984112701442",
+            "created_at": "2022-02-14T15:57:09.000Z",
+            "id": "1493252984112701442",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 114
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493050224838914048",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Sr4liberty: Aww, so pitiful. LOOK!  Help! #Cats #Pets #Shelter #Rescue #RescueCats"
+        },
+        {
+            "author_id": "1492190189321662471",
+            "conversation_id": "1493077455145426944",
+            "created_at": "2022-02-14T15:57:09.000Z",
+            "id": "1493252983072735234",
+            "in_reply_to_user_id": "1341515082124148740",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493252031422902275",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@Nostalgia_Cats srry if this was weird, but i saw ur argument with everskies lmaoo. and im banned so i was looking for hope but.."
+        },
+        {
+            "author_id": "1477323682511040512",
+            "conversation_id": "1493252980883267586",
+            "created_at": "2022-02-14T15:57:08.000Z",
+            "id": "1493252980883267586",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1490345198907539466",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @FirstCryptoPoet: @AltcoinWorldcom @FirstCryptoPoet @RealTweetToken @TweettokenBel #1000xgem #bsc #BSCGem #BSCGems #BSCGemsAlert #cats #\u2026"
+        },
+        {
+            "author_id": "2723109613",
+            "conversation_id": "1493252980245602305",
+            "created_at": "2022-02-14T15:57:08.000Z",
+            "id": "1493252980245602305",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 123
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493222016530456576",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @NounCats: gm!\n\nWe just need a few more hours to tidy some things up before we give away 500 Invisible Noun Cats!\n\nWho\u2019s excited?!\n\nRT t\u2026"
+        },
+        {
+            "author_id": "1451268630809825291",
+            "conversation_id": "1493252979184570376",
+            "created_at": "2022-02-14T15:57:08.000Z",
+            "id": "1493252979184570376",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493252736179187713",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @AuthorJMills: @ComedyChrisT21 Do you love to read #Fantasy? Do you enjoy adventurous tales filled with wonderful characters, stunning s\u2026"
+        },
+        {
+            "author_id": "1477323682511040512",
+            "conversation_id": "1493252969692864515",
+            "created_at": "2022-02-14T15:57:05.000Z",
+            "id": "1493252969692864515",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1490345045244981250",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @FirstCryptoPoet: @JakeGagain @RealTweetToken @FirstCryptoPoet @TweettokenBel #1000xgem #bsc #BSCGem #BSCGems #BSCGemsAlert #cats #CatsO\u2026"
+        },
+        {
+            "author_id": "784995481151733760",
+            "conversation_id": "1493252969386684426",
+            "created_at": "2022-02-14T15:57:05.000Z",
+            "id": "1493252969386684426",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 101
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493077141155508224",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @AskJeweneTheEwe: Better luck next time kitty cats. ^^; https://t.co/Nd2UJ9SjqE"
+        },
+        {
+            "author_id": "496759547",
+            "conversation_id": "1493123043882852354",
+            "created_at": "2022-02-14T15:57:05.000Z",
+            "id": "1493252968791134212",
+            "in_reply_to_user_id": "1427814733374054406",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493252000628101125",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@canyon_cats @Biscuit_Meow @MissTArchie1 @PPawrentingCat @alfie_min @FlossCassie @44NatNat @MissFurrysTails @ThelmaLouise12 @GeorgeandMildr4 @MillieMall @RC_EARL @GandalfGreyCat @MillieGangs @TigglyMcDiggly @Iambramblecat @HHazcat @alwaysonrepol @GizmoCuteKitty @coombes_angie @Treespers42 @Charliebear2508 Delighted to be of service \ud83d\ude9a \nHappy Valentine's Day to you too \u2665\ufe0f \n\ud83c\udf08\ud83d\udc08\ud83d\udc3e\u2665\ufe0f"
+        },
+        {
+            "author_id": "1478586733046517761",
+            "conversation_id": "1493252965804781568",
+            "created_at": "2022-02-14T15:57:05.000Z",
+            "id": "1493252965804781568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493252748497797122",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @gasoline_dreams: There are so many dope Gutter Cats out there right now! If you want a chance to join @GutterCatGang for .03 ETH Mint @\u2026"
+        },
+        {
+            "author_id": "1484284379425873922",
+            "conversation_id": "1493234509189468167",
+            "created_at": "2022-02-14T15:57:04.000Z",
+            "id": "1493252964659699712",
+            "in_reply_to_user_id": "1470511958445146113",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493234509189468167",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@KnightCatNFT https://t.co/657V6rG0ql\u2026\u2026\n\ud83d\udfe60.05 $ETH\n\ud83d\udfe9Cool and cute Metaverse cats\n#NFTs #dropyournft \n #NFT #NFTCommunity #ETH #NFTCollection \n\ud83d\udfeaCool and cute Metaverse cats is a collection of 1111 sets and my idea is on it's way to Metawares which is available in Blockchain Ethereum https://t.co/ogMpTm65S2"
+        },
+        {
+            "author_id": "3135373703",
+            "conversation_id": "1493252963908960261",
+            "created_at": "2022-02-14T15:57:04.000Z",
+            "id": "1493252963908960261",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": ".@happyjejudo .@jeremyrockliff Premier #PeterGutwein of #Tasmania: Tell your Sister State, #Jeju Province, #SouthKorea, that you are opposed to the torture and consumption of #dogs and #cats \ud83d\ude22 https://t.co/np4PgJWJCM\ud83d\udc3ehttps://t.co/TwXdvbdthq"
+        },
+        {
+            "author_id": "990781535304503297",
+            "conversation_id": "1493252963023953926",
+            "created_at": "2022-02-14T15:57:04.000Z",
+            "id": "1493252963023953926",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1491858069923454983",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @justjosiecats: Call me baby!I'm online right now on skyprivate (live skype show). my private profile: https://t.co/YkmTerM8Eh Please RT\u2026"
+        },
+        {
+            "author_id": "1477323682511040512",
+            "conversation_id": "1493252959966224390",
+            "created_at": "2022-02-14T15:57:03.000Z",
+            "id": "1493252959966224390",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1490344921236008962",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @FirstCryptoPoet: @TheCryptoLark @FirstCryptoPoet @RealTweetToken @TweettokenBel #1000xgem #bsc #BSCGem #BSCGems #BSCGemsAlert #cats #Ca\u2026"
+        },
+        {
+            "author_id": "1339201675865681920",
+            "conversation_id": "1493252955952513024",
+            "created_at": "2022-02-14T15:57:02.000Z",
+            "id": "1493252955952513024",
+            "lang": "ko",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 560
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493089390771335168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @JeongJaeEun: 3\uc6d4\uc911\uc21c \uac1c\ubd09!  #\uace0\uc591\uc774\ub4e4\uc758\uc544\ud30c\ud2b8 #Cats\u2019Apartment  \ud2f0\uc800\ud3ec\uc2a4\ud130\uac00 \ub098\uc654\uc2b5\ub2c8\ub2e4. RT \ub9ce\uc774 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4."
+        },
+        {
+            "author_id": "518838113",
+            "conversation_id": "1493252954844852228",
+            "created_at": "2022-02-14T15:57:02.000Z",
+            "id": "1493252954844852228",
+            "lang": "ja",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6018
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493050721633452032",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @officia86839977: \u4e57\u8eca\u5e0c\u671b\u304c\u591a\u304b\u3063\u305f\u306e\u3067\n\u662f\u975e\u3054\u4e57\u8eca\u4e0b\u3055\u3044\u3002\n\u5168\u7de8\ud83d\udc47\nhttps://t.co/YT0TYWg16w\n\n#\u30b8\u30aa\u30e9\u30de\u98df\u5802\n#\u30b8\u30aa\u30e9\u30de\u98df\u5802\n#cats\n#cats_of_world\n#catstagram https://t.co/m2cqe\u2026"
+        },
+        {
+            "author_id": "2303913996",
+            "conversation_id": "1493252953473433615",
+            "created_at": "2022-02-14T15:57:02.000Z",
+            "id": "1493252953473433615",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493250880472297476",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "TweetDeck",
+            "text": "RT @Aawwwww_: \"Caught in a blep after stealing water he knows isn't for him.\"\n#cats #blep #CatsOfTwitter https://t.co/Yi43a3zP30"
+        },
+        {
+            "author_id": "1477323682511040512",
+            "conversation_id": "1493252949660811267",
+            "created_at": "2022-02-14T15:57:01.000Z",
+            "id": "1493252949660811267",
+            "lang": "und",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1490344753451446272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @FirstCryptoPoet: @NFTQueenETH @AdomiakJeff @RealTweetToken @FirstCryptoPoet #tweettoken \n\n#1000xgem #bsc #BSCGem #BSCGems #BSCGemsAlert\u2026"
+        },
+        {
+            "author_id": "1426412889615835137",
+            "conversation_id": "1493252941486202881",
+            "created_at": "2022-02-14T15:56:59.000Z",
+            "id": "1493252941486202881",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493252895688511506",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @omnistixreaper: The amount of love I got for cats is crazy https://t.co/B96smzBTIn"
+        },
+        {
+            "author_id": "259917502",
+            "conversation_id": "1493252940399722502",
+            "created_at": "2022-02-14T15:56:58.000Z",
+            "id": "1493252940399722502",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 108
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1493094142011969536",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Malcolm_theCat: Friends! It\u2019s #ValentinesDay2022 \ud83c\udf39 and Baby Dog and I will be celebrating together with a Special Dinner. But we also w\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1493252985367023619",
+        "next_token": "b26v89c19zqg8o3fpe765f5wy78md0eun3vb281kqp8ql",
+        "oldest_id": "1493252940399722502",
+        "result_count": 20
+    }
+}
